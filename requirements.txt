@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==2.3.2
 configparser==3.5.0b1
 Flask-BasicAuth==0.2.0
 requests
